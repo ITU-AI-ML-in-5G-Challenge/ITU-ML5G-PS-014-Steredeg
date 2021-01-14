@@ -12,6 +12,4 @@ A [report](report.pdf) is also provided with details on the proposed solution an
 
 To access the source code, please contact christoph.neumann by email at interdigital.com.
 
-*A live demo is currently hosted at [gnnet.interdigital.com](http://gnnet.interdigital.com).*
-
 ![demo screenshot](demo.png)
